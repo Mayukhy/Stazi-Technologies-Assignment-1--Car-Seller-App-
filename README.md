@@ -7,6 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+    # Technologies used:
+  React js, MUI, Tailwind css, Redux-toolkit
+
 # SS
 ![VehicleParadice - Google Chrome 10_4_2023 12_13_58 PM](https://github.com/Mayukhy/Stazi-Technologies-Assignment-1--Car-Seller-App-/assets/107027766/d56a7060-912f-43db-bcaf-143b712812a1)
 
