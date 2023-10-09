@@ -1,14 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Car Seller App
 
     # Technologies used:
-  React js, MUI, Tailwind css, Redux-toolkit
+   React js, MUI, Tailwind css, Redux-toolkit
+
+  # To run the Application ===>
+1. Download the zip folder or clone the gitRepository with vscode.
+2. Open terminal and type "npm install" for installation of node_modules and then to run the application type "npm run dev"
 
 # SS
 ![VehicleParadice - Google Chrome 10_4_2023 12_13_58 PM](https://github.com/Mayukhy/Stazi-Technologies-Assignment-1--Car-Seller-App-/assets/107027766/d56a7060-912f-43db-bcaf-143b712812a1)
