@@ -1,6 +1,6 @@
 # Car Seller App
 
-    # Technologies used:
+ # Technologies used:
    React js, MUI, Tailwind css, Redux-toolkit
 
   # To run the Application ===>
